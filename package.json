@@ -12,10 +12,11 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
+    "gh-pages": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "gh-pages": "latest"
+    "react-dom": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vite": "^8.0.14"
+  }
 }
